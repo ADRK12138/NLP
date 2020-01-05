@@ -10,4 +10,4 @@ text1.common_contexts(["monstrous","very"])
 #随机输出
 text3.generate()
 #统计字符
-##print(len(text3))
+print(len(text3))
